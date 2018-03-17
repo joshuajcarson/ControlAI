@@ -7,8 +7,8 @@ class GameManager(object):
     def __init__(self):
         self.deck = pd.read_csv('./data/control_deck.csv')
 
-    def get_random_index_of_deck(self, max_int):
-        return random.randint(0, max_int-1)
+    def get_random_index_of_deck(self, max_index):
+        return random.randint(0, max_index - 1)
 
     def draw_starting_hand(self, player='one'):
         for x in range(0, 5):

@@ -1,0 +1,53 @@
+name         ,fuel_cells,type  ,location
+rift         ,1         ,silver,deck
+rift         ,1         ,silver,deck
+rift         ,1         ,silver,deck
+rift         ,1         ,silver,deck
+exotic_matter,2         ,silver,deck
+exotic_matter,2         ,silver,deck
+exotic_matter,2         ,silver,deck
+exotic_matter,2         ,silver,deck
+deflector    ,3         ,silver,deck
+deflector    ,3         ,silver,deck
+deflector    ,3         ,silver,deck
+deflector    ,3         ,silver,deck
+wormhole     ,4         ,bronze,deck
+wormhole     ,4         ,bronze,deck
+wormhole     ,4         ,bronze,deck
+wormhole     ,4         ,bronze,deck
+anomaly      ,4         ,bronze,deck
+anomaly      ,4         ,bronze,deck
+anomaly      ,4         ,bronze,deck
+anomaly      ,4         ,bronze,deck
+rewind       ,5         ,bronze,deck
+rewind       ,5         ,bronze,deck
+rewind       ,5         ,bronze,deck
+rewind       ,5         ,bronze,deck
+reactor      ,5         ,silver,deck
+reactor      ,5         ,silver,deck
+reactor      ,5         ,silver,deck
+reactor      ,5         ,silver,deck
+dark_energy  ,6         ,bronze,deck
+dark_energy  ,6         ,bronze,deck
+dark_energy  ,6         ,bronze,deck
+dark_energy  ,6         ,bronze,deck
+future_shift ,6         ,bronze,deck
+future_shift ,6         ,bronze,deck
+future_shift ,6         ,bronze,deck
+future_shift ,6         ,bronze,deck
+singularity  ,7         ,bronze,deck
+singularity  ,7         ,bronze,deck
+singularity  ,7         ,bronze,deck
+singularity  ,7         ,bronze,deck
+antimatter   ,8         ,bronze,deck
+antimatter   ,8         ,bronze,deck
+antimatter   ,8         ,bronze,deck
+antimatter   ,8         ,bronze,deck
+time_stop    ,9         ,bronze,deck
+time_stop    ,9         ,bronze,deck
+time_stop    ,9         ,bronze,deck
+time_stop    ,9         ,bronze,deck
+nova         ,10        ,bronze,deck
+nova         ,10        ,bronze,deck
+nova         ,10        ,bronze,deck
+nova         ,10        ,bronze,deck
